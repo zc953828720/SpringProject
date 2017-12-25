@@ -1,0 +1,13 @@
+<application>
+  <component name="libraryTable">
+    <library name="Baidu-api">
+      <CLASSES>
+        <root url="jar://D:/大三上学期/SOA/aip-java-sdk-3.2.1/json-20160810.jar!/" />
+        <root url="jar://D:/大三上学期/SOA/aip-java-sdk-3.2.1/aip-java-sdk-3.2.1.jar!/" />
+        <root url="jar://D:/大三上学期/SOA/aip-java-sdk-3.4.1-语音/aip-java-sdk-3.4.1.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+  </component>
+</application>
